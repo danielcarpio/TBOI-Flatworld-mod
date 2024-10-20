@@ -1,0 +1,9 @@
+<costumes anm2root="gfx/characters/">
+
+    <costume anm2path="aki_hair.anm2" type="none" priority="0" />
+    <costume anm2path="aki_stoles.anm2" type="none" priority="0" />
+    <costume anm2path="hikari_hair.anm2" type="none" priority="0" />
+    <costume anm2path="hikari_stoles.anm2" type="none" priority="0" />
+    <costume id="0" anm2path="kawa_dojo_scarf.anm2" type="passive" priority="1" />
+
+</costumes>

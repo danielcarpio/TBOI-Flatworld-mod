@@ -1,0 +1,21 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Aki"
+        skin="character_aki.png"
+        nameimage="playername_aki.png"
+        hp="4"
+        armor="2"
+        keys="1"
+        portrait="playerportrait_aki.png"
+        skinColor="-1"
+    />
+    <player name="Hikari"
+        skin="character_hikari.png"
+        nameimage="playername_hikari.png"
+        hp="4"
+        black="2"
+        keys="1"
+        bombs="1"
+        portrait="playerportrait_hikari.png"
+        skinColor="-1"
+    />
+</players>

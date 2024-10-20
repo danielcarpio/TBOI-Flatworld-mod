@@ -1,0 +1,45 @@
+<items gfxroot="gfx/items/" deathanm2="gfx/death_items.anm2" version="1">
+    <!-- Collectibles -->
+    <passive 
+        id="0"
+        name="Bufanda del dojo de Kawa"
+        gfx="kawa_dojo_scarf.png"
+        description="Demuestra que eres un verdadero mago"
+    />
+    <active 
+        id="1" 
+        name="Magia de calor" 
+        description="Quema a los enemigos de tu alrededor" 
+        gfx="heat_magic.png" 
+        initcharge="3"
+        maxcharges="3" 
+    /> 
+    <active 
+        id="2" 
+        name="1 vs 1" 
+        description="Enciérrate con tu enemigo" 
+        gfx="1vs1.png" 
+        initcharge="6"
+        maxcharges="6" 
+    /> 
+    <active 
+        id="3" 
+        name="Bastón de Hikari" 
+        description="Empuja a tus enemigos con el viento" 
+        gfx="hikari_crozier.png"
+        chargetype="timed"
+        maxcharges="120" 
+    />
+    <passive 
+        id="4"
+        name="Té matcha"
+        gfx="matcha_tea.png"
+        description="El té que te alegra el día"
+    />
+    <trinket 
+        id="100" 
+        name="Alga majo"
+        description="¿Qué es verde y mejora tu día? ¡El alga majo!"
+        gfx="alga_majo.png" 
+    />
+</items>

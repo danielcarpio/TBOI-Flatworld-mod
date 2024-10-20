@@ -1,0 +1,34 @@
+<ItemPools>
+    <Pool>
+        <Item Id="0" Weight="0" DecreaseBy="0" RemoveOn="0.1"/>
+    </Pool>
+    <Pool name="Treasure Room">
+        <Item Id="1" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Id="2" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Id="3" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool name="Boss Room">
+        <Item Id="1" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Id="2" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Id="3" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Id="4" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool name="Secret Room">
+        <Item Id="100" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool name="Shop">
+        <Item Id="100" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool name="Golden Chest">
+        <Item Id="1" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Id="2" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+        <Item Id="3" Weight="1" DecreaseBy="1" RemoveOn="0.1"/> 
+        <Item Id="100" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool name="Devil Room">
+        <Item Id="4" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool name="Angel Room">
+        <Item Id="4" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+</ItemPools>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Flatworld</name>
+    <directory>flatworldmod</directory>
+    <id>3316470783</id>
+    <description>Mod inspired by the videogame [url=https://store.steampowered.com/app/1296540/Flatworld/]Flatworld[/url] 
+    [h1]What's included?[/h1]
+[list]
+    [*]2 new characters: Aki and Hikari
+    [*]4 new items inspired in Flatworld
+    [*]1 new trinket
+[/list] 
+[h2]Items[/h2]
+[table]
+    [tr]
+        [th]Name[/th]
+        [th]Description[/th]
+    [/tr]
+    [tr]
+        [td]Heat magic[/td]
+        [td]Burn enemies around![/td]
+    [/tr]
+    [tr]
+        [td]1 vs 1[/td]
+        [td]Lock yourself with only one enemy[/td]
+    [/tr]
+    [tr]
+        [td]Hikaris's crozier[/td]
+        [td]Push away enemies with the power of wind[/td]
+    [/tr]
+    [tr]
+        [td]Matcha tea[/td]
+        [td]It give you power[/td]
+    [/tr]
+[/table] 
+[h2]Trinkets[/h2]
+[table]
+    [tr]
+        [th]Name[/th]
+        [th]Description[/th]
+    [/tr]
+    [tr]
+        [td]Alga majo[/td]
+        [td]It gives you more energy to move faster[/td]
+    [/tr]
+[/table]</description>
+    <version>1.3</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Trinkets"/>
+    <tag id="Player Characters"/>
+</metadata>
